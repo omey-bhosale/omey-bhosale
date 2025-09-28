@@ -1,4 +1,4 @@
-<h1>Heyy , I'm Omkar Bhosale</h1>
+<h1>Heyy , I'm Omkar Bhosale </h1>
 # 💫 About Me:
  🚀 Full-Stack Engineer | Java | REST API's | Angular |<br><br>💡 Building scalable microservices & dynamic UIs.<br>⚙️ Expertise in Java, Quarkus, Spring Boot, Angular, PostgreSQL.<br>🚀 Exploring AWS Azure DevOps & CI/CD optimizations.<br>📌 Passionate about high-performance APIs & cloud-native solutions.<br>🛠️ Let’s connect!
 
