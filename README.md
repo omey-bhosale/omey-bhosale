@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/omkar-bhosale"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/omkar-bhosale-sde"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harrybhosale17@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/omkar-bhosale"><img src="https://img.shields.io/badge/GitHub-omkar--bhosale-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/omey-bhosale"><img src="https://img.shields.io/badge/GitHub-omkar--bhosale-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=omkar-bhosale&style=for-the-badge&color=7C3AED&label=Profile+Views" />
 </p>
 
