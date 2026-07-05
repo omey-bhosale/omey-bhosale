@@ -1,300 +1,344 @@
 <!-- ============================================================ -->
-<!--                        HERO BANNER                          -->
+<!--                  PREMIUM GITHUB PROFILE README               -->
 <!-- ============================================================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Omkar%20Bhosale&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI-Workflow%20Automation&descAlignY=54&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:0F172A,65:2563EB,85:06B6D4,100:10B981&height=255&section=header&text=Omkar%20Bhosale&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20II%20%7C%20Backend%20Systems%20%7C%20Cloud%20Platforms%20%7C%20AI%20Engineering&descAlignY=55&descSize=17" alt="Omkar Bhosale - Software Engineer II" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Software+Engineer+II+%40+Rapid7;Java+%7C+Spring+Boot+%7C+AWS+%7C+Kafka+%7C+Kubernetes;Shipping+Production+Features+on+Claude%2C+OpenAI+%26+Bedrock;RAG+Pipelines+%7C+Prompt+Engineering+%7C+AI-Augmented+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&pause=850&color=38BDF8&center=true&vCenter=true&width=1050&lines=Production+Backend+Engineer+building+reliable+systems;Java+%7C+Spring+Boot+%7C+AWS+%7C+Kafka+%7C+Kubernetes;LLM+Workflows+with+Claude%2C+OpenAI+and+Amazon+Bedrock;Microservices+%7C+RAG+Pipelines+%7C+Production+Reliability" alt="Animated engineering headline" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/omkar-bhosale-sde"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harrybhosale17@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/omey-bhosale"><img src="https://img.shields.io/badge/GitHub-omkar--bhosale-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=omkar-bhosale&style=for-the-badge&color=7C3AED&label=Profile+Views" />
+  <a href="https://linkedin.com/in/omkar-bhosale-sde"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harrybhosale17@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/omey-bhosale"><img src="https://img.shields.io/badge/GitHub-omey--bhosale-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=omey-bhosale&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-~4%20Years-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-Cybersecurity%20%7C%20Industrial%20Automation-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-10B981?style=flat-square" />
-</p>
-
----
-
-## 🧭 About Me
-
-> Software Engineer II with ~4 years building scalable, reliable server-side systems on a microservices architecture across **cybersecurity** and **industrial automation**. I design backend platforms in Java and Spring Boot and have shipped **production features built directly on LLM APIs** — Anthropic Claude, OpenAI, and Amazon Bedrock — including RAG and prompt-engineering pipelines that integrate AI into real engineering workflows. I own systems end to end, set engineering standards, and mentor engineers on cloud-native and production-debugging patterns.
-
-```yaml
-name: Omkar Bhosale
-role: Software Engineer II
-company: Rapid7 (InsightVM, Exposure Analytics)
-based_in: Pune, India
-focus:
-  - Backend Platform Engineering (Java / Spring Boot)
-  - Distributed & Event-Driven Systems (Kafka)
-  - Cloud-Native Infrastructure (AWS, Docker, Kubernetes)
-  - LLM-Integrated Backend Systems (Claude, OpenAI, Bedrock, RAG)
-  - Production Reliability & Incident Response
-```
-
----
-
-## ⚡ What I Build
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Backend Platforms
-- Java / Spring Boot microservices
-- REST APIs & OpenAPI contracts
-- Shared platform libraries & abstractions
-- Spring Data JPA, Quarkus, Apache Camel
-- End-to-end service ownership
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Distributed Systems
-- AWS (S3, SQS, SNS, RDS)
-- Kafka-based event-driven architecture
-- Docker & Kubernetes orchestration
-- CI/CD via Jenkins & Spinnaker
-- Multi-environment deployment safety
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & LLM Integration
-- Amazon Bedrock + Anthropic Claude
-- OpenAI API integration
-- RAG pipelines & similarity-based retrieval
-- Prompt engineering for verification workflows
-- AI-assisted test generation
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Production Engineering
-- CloudWatch, OpenSearch, Trino
-- PagerDuty incident response & RCA
-- SLA-driven fixes on live systems
-- Architecture & design reviews
-- Mentoring on cloud-native patterns
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Role-Software%20Engineer%20II-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Role" /><br /><sub>Rapid7</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Experience-~4%20Years-10B981?style=for-the-badge&labelColor=0F172A" alt="Experience" /><br /><sub>backend and production systems</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Focus-AI%20%2B%20Cloud-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="AI and cloud" /><br /><sub>Claude, OpenAI, Bedrock, AWS</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Base-Pune%2C%20India-F59E0B?style=for-the-badge&labelColor=0F172A" alt="Pune India" /><br /><sub>open to strong engineering teams</sub></td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Professional Snapshot
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Backend Platforms</strong><br /><sub>Java, Spring Boot, REST, OpenAPI</sub></td>
+    <td width="25%" align="center"><strong>Distributed Systems</strong><br /><sub>Kafka, microservices, event flows</sub></td>
+    <td width="25%" align="center"><strong>Cloud Engineering</strong><br /><sub>AWS, Docker, Kubernetes, CI/CD</sub></td>
+    <td width="25%" align="center"><strong>AI Engineering</strong><br /><sub>Claude, OpenAI, Bedrock, RAG</sub></td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics Command Center
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,docker,kubernetes,postgres,mysql,react,angular,typescript,javascript,git,github,jenkins,linux,postman" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080D,35:0F172A,65:2563EB,85:06B6D4,100:10B981&height=104&section=header&text=GitHub%20Analytics%20Command%20Center&fontSize=31&fontColor=ffffff&animation=twinkling&desc=Live%20Stats%20%7C%20Contribution%20Heatmap%20%7C%20Streak%20Signal%20%7C%20Repo%20Velocity%20%7C%20PR%20Analytics&descSize=13&descAlignY=74" alt="GitHub Analytics Command Center" />
 </p>
 
-**Languages & Core**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-17%20%7C%2011%20%7C%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fomey-bhosale&color=06B6D4&labelColor=0F172A&logo=github" alt="Live public repository count" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Authored%20PRs&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Aomey-bhosale%2520type%253Apr&color=10B981&labelColor=0F172A&logo=github" alt="Live authored pull request count" />
+  <img src="https://img.shields.io/github/followers/omey-bhosale?style=for-the-badge&logo=github&label=Followers&color=F59E0B&labelColor=0F172A" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=omey-bhosale&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
 </p>
 
-**Backend & APIs**
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20%2F%20OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Camel-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Contributions-1%2C597-06B6D4?style=for-the-badge&labelColor=0F172A" alt="1,597 contributions" /><br />
+      <sub>last 12 months</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Current%20Streak-5%20Days-10B981?style=for-the-badge&labelColor=0F172A" alt="5 day current streak" /><br />
+      <sub>recent consistency</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Longest%20Streak-22%20Days-F59E0B?style=for-the-badge&labelColor=0F172A" alt="22 day longest streak" /><br />
+      <sub>best activity run</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Active%20Since-2020-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="Active since 2020" /><br />
+      <sub>GitHub history</sub>
+    </td>
+  </tr>
+</table>
+
+<details open>
+<summary><strong>Contribution Heatmap</strong></summary>
+<br />
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/omey-bhosale" alt="Live GitHub contribution heatmap" />
 </p>
 
-**Cloud & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20SQS%20%7C%20SNS%20%7C%20RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white" />
-</p>
+</details>
 
-**AI & LLM Integration**
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Knowledge%20Retrieval-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-</p>
+<details open>
+<summary><strong>Contribution Histogram and Streak Graph</strong></summary>
+<br />
 
-**Data, Testing & Observability**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit%205%20%2F%20Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <img src="https://quickchart.io/chart?width=760&height=300&backgroundColor=transparent&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jul%22%2C%22Aug%22%2C%22Sep%22%2C%22Oct%22%2C%22Nov%22%2C%22Dec%22%2C%22Jan%22%2C%22Feb%22%2C%22Mar%22%2C%22Apr%22%2C%22May%22%2C%22Jun%22%2C%22Jul%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Contributions%22%2C%22data%22%3A%5B67%2C91%2C103%2C112%2C96%2C118%2C79%2C105%2C98%2C132%2C96%2C112%2C17%5D%2C%22backgroundColor%22%3A%5B%22%2338BDF8%22%2C%22%2338BDF8%22%2C%22%2360A5FA%22%2C%22%2360A5FA%22%2C%22%238B5CF6%22%2C%22%238B5CF6%22%2C%22%2310B981%22%2C%22%2310B981%22%2C%22%2306B6D4%22%2C%22%2306B6D4%22%2C%22%23F59E0B%22%2C%22%23F59E0B%22%2C%22%23F472B6%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Contribution%20Histogram%22%2C%22color%22%3A%22%23E5E7EB%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%2393C5FD%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%2859%2C130%2C246%2C.18%29%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%2393C5FD%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%2859%2C130%2C246%2C.18%29%22%7D%7D%7D%7D%7D" alt="Contribution histogram chart" />
+    </td>
+    <td align="center" width="40%">
+      <img src="https://quickchart.io/chart?width=520&height=300&backgroundColor=transparent&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Longest%22%2C%22Current%22%2C%22Recent%20Active%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Streak%20Days%22%2C%22data%22%3A%5B22%2C5%2C5%5D%2C%22borderColor%22%3A%22%2360A5FA%22%2C%22backgroundColor%22%3A%22rgba%2896%2C165%2C250%2C.25%29%22%2C%22fill%22%3Atrue%2C%22tension%22%3A0.35%2C%22pointBackgroundColor%22%3A%22%23C084FC%22%2C%22pointRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Streak%20Snapshot%22%2C%22color%22%3A%22%23E5E7EB%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%2393C5FD%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%2859%2C130%2C246%2C.18%29%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%2393C5FD%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%2859%2C130%2C246%2C.18%29%22%7D%7D%7D%7D%7D" alt="Streak line chart" />
+    </td>
+  </tr>
+</table>
 
----
+</details>
 
-## 💼 Professional Experience
+<details open>
+<summary><strong>Repository, PR and Project Graphs</strong></summary>
+<br />
 
-### 🔐 Rapid7 — Software Engineer II
-**Sep 2025 – Present · Pune, India · InsightVM, Exposure Analytics**
-
-- Built production engineering systems on **Amazon Bedrock + Anthropic Claude** to validate migration correctness and generate migration-aware unit/integration tests — applying prompt engineering and retrieval over internal code and docs to cut manual verification during a large AWS SDK cutover.
-- Migrated **5+ backend services and 3 shared libraries** off AWS SDK v1, building a centralized abstraction layer for S3, SQS, and SNS that isolated cloud access from business logic across the InsightVM microservices mesh.
-- Designed shared platform libraries standardizing AWS client setup, retry policy, and credential handling — adopted org-wide as a tested integration pattern.
-- Owned production incidents end to end, tracing root cause through CloudWatch, OpenSearch, and Trino, shipping fixes within SLA against PagerDuty runbooks.
-- Delivered releases via Jenkins, Spinnaker, and Docker onto Kubernetes across multiple environments.
-- Contributed to architecture reviews, cross-team PR reviews, and mentored junior engineers.
-
-`Java` `Spring Boot` `AWS SDK v2` `Bedrock` `Claude` `Kubernetes` `Spinnaker`
-
----
-
-### 🏭 Rockwell Automation — Software Engineer
-**Jul 2023 – Sep 2025 · Pune, India · FactoryTalk DataMosaix, Converged Data Services**
-
-- Built event-driven microservices with **Kafka and Camel-K**, decoupling upstream data producers from downstream analytics consumers and containing failures to a single domain.
-- Built a **data virtualization layer** using Apache Calcite over a virtual PostgreSQL endpoint, enabling SQL-based querying across heterogeneous data sources without moving data.
-- Prototyped cross-domain data federation on **Quarkus**; the POC was adopted as the blueprint for the platform's data access strategy.
-- Defined OpenAPI-based REST contracts and reworked query execution paths, cutting latency on analytics-heavy endpoints.
-- Built reusable Angular components for FactoryTalk Design Studio, holding **80%+** unit/integration coverage.
-
-`Kafka` `Apache Calcite` `Quarkus` `PostgreSQL` `Angular` `Camel-K`
-
----
-
-### 🧩 SDK Infotech Pvt. Ltd. — Associate Software Engineer
-**Jun 2022 – Jul 2023 · Pune, India**
-
-- Built Spring Boot backend modules and REST APIs (Java 8) for enterprise web applications.
-- Integrated backend services with Angular frontends over MySQL, implementing data sync and session management.
-- Established core engineering fundamentals — REST design, JUnit coverage, code review, Agile delivery.
-
-`Java 8` `Spring Boot` `Angular` `MySQL`
-
----
-
-## 🌟 Flagship Project
-
-### 🚀 ContextPilot — AI Meeting Intelligence Platform
-*Personal · Electron · React · TypeScript · WebSockets · RAG · Anthropic Claude / OpenAI*
-
-> A real-time desktop intelligence layer that captures live audio, transcribes speech, and surfaces contextual AI-generated insights through a floating overlay — an end-to-end, production-style example of LLM API integration.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://quickchart.io/chart?width=520&height=300&backgroundColor=transparent&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Repos%22%2C%22PRs%22%2C%22Followers%22%2C%22Stars%22%2C%22Forks%22%2C%22Languages%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22GitHub%20Signal%22%2C%22data%22%3A%5B21%2C16%2C3%2C2%2C0%2C3%5D%2C%22backgroundColor%22%3A%5B%22%2306B6D4%22%2C%22%2310B981%22%2C%22%23F59E0B%22%2C%22%238B5CF6%22%2C%22%2338BDF8%22%2C%22%23F472B6%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Repo%20/%20PR%20/%20Project%20Signal%22%2C%22color%22%3A%22%23E5E7EB%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%2393C5FD%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%2859%2C130%2C246%2C.18%29%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23E5E7EB%22%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Repository and PR bar chart" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Primary%20Repo-ContextPilot-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Primary repo" />
+      <br /><br />
+      <img src="https://img.shields.io/github/created-at/omey-bhosale/ContextPilot?style=for-the-badge&logo=github&label=Created&color=06B6D4&labelColor=0F172A" alt="ContextPilot created date" />
+      <img src="https://img.shields.io/github/repo-size/omey-bhosale/ContextPilot?style=for-the-badge&logo=github&label=Repo%20Size&color=10B981&labelColor=0F172A" alt="Repo size" />
+      <img src="https://img.shields.io/github/languages/count/omey-bhosale/ContextPilot?style=for-the-badge&logo=github&label=Languages&color=F59E0B&labelColor=0F172A" alt="Language count" />
+      <img src="https://img.shields.io/github/commit-activity/t/omey-bhosale/ContextPilot?style=for-the-badge&logo=github&label=Total%20Commits&color=8B5CF6&labelColor=0F172A" alt="ContextPilot total commits" />
+    </td>
+  </tr>
+</table>
 
 ```mermaid
 flowchart LR
-    A[Live Audio Capture] --> B[Electron Desktop App]
-    B --> C[WebSocket Stream]
-    C --> D[Transcript Processor]
-    D --> E[RAG Context Retrieval]
-    E --> F[Claude / OpenAI Response Engine]
-    F --> G[Floating Overlay Panel]
+    A["21 Public Repositories"] --> B["16 Authored PRs"]
+    B --> C["ContextPilot AI Platform"]
+    C --> D["Realtime Audio + RAG"]
+    C --> E["Claude / OpenAI Integration"]
+    C --> F["Desktop Overlay Experience"]
+    D --> G["Production Portfolio Signal"]
+    E --> G
+    F --> G
 ```
 
-**Highlights**
-- Real-time audio capture and transcription over WebSockets
-- RAG pipeline with retrieval, similarity-based context selection, and prompt construction
-- Dynamic summary generation and contextual insight surfacing
-- Floating overlay UI built for live, low-friction assistance
-- Built as a personal lab for production-grade LLM API integration
+</details>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-06B6D4?style=flat-square" />
-</p>
+<details open>
+<summary><strong>Repository Health Matrix</strong></summary>
+<br />
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ContextPilot</h3>
+      <a href="https://github.com/omey-bhosale/ContextPilot"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open ContextPilot" /></a>
+      <br /><br />
+      <img src="https://img.shields.io/github/languages/top/omey-bhosale/ContextPilot?style=flat-square&label=stack&color=06B6D4" alt="ContextPilot stack" />
+      <img src="https://img.shields.io/github/last-commit/omey-bhosale/ContextPilot?style=flat-square&label=last%20commit&color=10B981" alt="ContextPilot last commit" />
+      <img src="https://img.shields.io/github/issues-pr/omey-bhosale/ContextPilot?style=flat-square&label=PRs&color=F59E0B" alt="ContextPilot PRs" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Angular + Spring Boot App</h3>
+      <a href="https://github.com/omey-bhosale/Angular-10-Spring-Boot-CRUD-Full-Stack-App"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Angular Spring Boot app" /></a>
+      <br /><br />
+      <img src="https://img.shields.io/github/languages/top/omey-bhosale/Angular-10-Spring-Boot-CRUD-Full-Stack-App?style=flat-square&label=stack&color=06B6D4" alt="Angular Spring Boot stack" />
+      <img src="https://img.shields.io/github/last-commit/omey-bhosale/Angular-10-Spring-Boot-CRUD-Full-Stack-App?style=flat-square&label=last%20commit&color=10B981" alt="Angular Spring Boot last commit" />
+      <img src="https://img.shields.io/github/issues/omey-bhosale/Angular-10-Spring-Boot-CRUD-Full-Stack-App?style=flat-square&label=issues&color=F59E0B" alt="Angular Spring Boot issues" />
+    </td>
+  </tr>
+</table>
 
-## 📌 Currently Exploring
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Advanced%20System%20Design-1E293B?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Kubernetes%20Internals-326CE5?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangGraph%20%2F%20LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI%20Agents%20%26%20MCP-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Vector%20Databases-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AWS%20SAA--C03-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkar-bhosale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-bhosale&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-bhosale&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-bhosale&theme=tokyo-night&hide_border=true" />
-</p>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkar-bhosale&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 </details>
 
 ---
 
-## 🎓 Education & Certifications
+## Tech Radar
 
-| | |
-|---|---|
-| 🎓 **B.Tech, Computer Engineering** | Savitribai Phule Pune University · CGPA 9.21/10 · 2023 |
-| 🎓 **Diploma, Information Technology** | MSBTE · 91.81% · 2020 |
-| 📜 **Microsoft Technology Associate** | Database Administration (MTA) |
-| 🔄 **In Progress** | AWS Certified Solutions Architect – Associate (SAA-C03) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,docker,kubernetes,postgres,mysql,react,angular,typescript,javascript,git,github,jenkins,linux,postman" alt="Tech radar icons" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Backend-Expert-10B981?style=for-the-badge&labelColor=0F172A" alt="Backend expert" /><br /><sub>Java, Spring Boot, Quarkus</sub></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Cloud-Production-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Cloud production" /><br /><sub>AWS, Kubernetes, Docker</sub></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Events-Distributed-F59E0B?style=for-the-badge&labelColor=0F172A" alt="Distributed systems" /><br /><sub>Kafka, SQS, SNS</sub></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/AI-Integrated-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="AI integrated" /><br /><sub>Claude, OpenAI, Bedrock</sub></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Ops-Reliable-EA4335?style=for-the-badge&labelColor=0F172A" alt="Reliable ops" /><br /><sub>CloudWatch, OpenSearch, Trino</sub></td>
+  </tr>
+</table>
+
+<details open>
+<summary><strong>Stack Signal</strong></summary>
+<br />
+
+```mermaid
+mindmap
+  root((Tech Radar))
+    Backend
+      Java
+      Spring Boot
+      REST APIs
+      OpenAPI
+    Cloud
+      AWS
+      Docker
+      Kubernetes
+      Jenkins
+    Data
+      PostgreSQL
+      MySQL
+      Apache Calcite
+      Trino
+    AI
+      Claude
+      OpenAI
+      Bedrock
+      RAG
+    Reliability
+      CloudWatch
+      OpenSearch
+      PagerDuty
+      Testing
+```
+
+</details>
 
 ---
 
-## 🧭 Engineering Principles
+## ContextPilot Architecture
 
-```text
-Build systems that are simple to operate.
-Write code that survives production.
-Prefer clear abstractions over clever shortcuts.
-Automate repeatable engineering work.
-Use AI where it improves developer productivity, not where it adds noise.
+<p align="center">
+  <a href="https://github.com/omey-bhosale/ContextPilot"><img src="https://img.shields.io/badge/ContextPilot-AI%20Meeting%20Intelligence-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="ContextPilot" /></a>
+  <img src="https://img.shields.io/github/last-commit/omey-bhosale/ContextPilot?style=for-the-badge&logo=github&label=Latest%20Commit&color=F59E0B&labelColor=0F172A" alt="ContextPilot latest commit" />
+  <img src="https://img.shields.io/github/languages/top/omey-bhosale/ContextPilot?style=for-the-badge&label=Primary%20Stack&color=7C3AED&labelColor=0F172A" alt="ContextPilot primary stack" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Live Audio</strong><br /><sub>capture pipeline</sub></td>
+    <td align="center" width="25%"><strong>Realtime AI</strong><br /><sub>Claude / OpenAI</sub></td>
+    <td align="center" width="25%"><strong>RAG Layer</strong><br /><sub>context retrieval</sub></td>
+    <td align="center" width="25%"><strong>Overlay UX</strong><br /><sub>low-friction assist</sub></td>
+  </tr>
+</table>
+
+```mermaid
+flowchart LR
+    subgraph Client["Desktop Experience"]
+        A["System Audio Capture"]
+        B["Floating Overlay"]
+        C["Session Controls"]
+    end
+
+    subgraph Stream["Realtime Processing"]
+        D["Audio Stream"]
+        E["Transcript Engine"]
+        F["Context Window"]
+    end
+
+    subgraph Intelligence["AI Intelligence Layer"]
+        G["RAG Retrieval"]
+        H["Prompt Orchestrator"]
+        I["Claude / OpenAI"]
+    end
+
+    subgraph Output["User-Facing Signal"]
+        J["Live Answers"]
+        K["Summaries"]
+        L["Action Items"]
+    end
+
+    A --> D --> E --> F
+    C --> F
+    F --> G --> H --> I
+    I --> J
+    I --> K
+    I --> L
+    J --> B
+    K --> B
+    L --> B
 ```
 
 ---
 
-## 🤝 Let's Connect
+## Professional Experience
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Rapid7</h3>
+      <strong>Software Engineer II</strong><br />
+      <sub>Sep 2025 - Present</sub><br /><br />
+      <img src="https://img.shields.io/badge/AWS%20SDK%20Migration-5%2B%20Services-06B6D4?style=flat-square" alt="AWS SDK migration" />
+      <img src="https://img.shields.io/badge/AI-Claude%20%2B%20Bedrock-8B5CF6?style=flat-square" alt="AI Claude Bedrock" />
+      <img src="https://img.shields.io/badge/Ops-PagerDuty%20SLA-10B981?style=flat-square" alt="PagerDuty SLA" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Rockwell Automation</h3>
+      <strong>Software Engineer</strong><br />
+      <sub>Jul 2023 - Sep 2025</sub><br /><br />
+      <img src="https://img.shields.io/badge/Kafka-Event%20Driven-F59E0B?style=flat-square" alt="Kafka event driven" />
+      <img src="https://img.shields.io/badge/Calcite-Data%20Virtualization-06B6D4?style=flat-square" alt="Calcite data virtualization" />
+      <img src="https://img.shields.io/badge/Coverage-80%25%2B-10B981?style=flat-square" alt="80 percent coverage" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>SDK Infotech</h3>
+      <strong>Associate Software Engineer</strong><br />
+      <sub>Jun 2022 - Jul 2023</sub><br /><br />
+      <img src="https://img.shields.io/badge/Java%208-Spring%20Boot-10B981?style=flat-square" alt="Java Spring Boot" />
+      <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=flat-square" alt="Angular" />
+      <img src="https://img.shields.io/badge/MySQL-Data%20Layer-06B6D4?style=flat-square" alt="MySQL" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Currently Exploring
 
 <p align="center">
-  <a href="mailto:harrybhosale17@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/omkar-bhosale"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/omkar-bhosale"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/System%20Design-Advanced-1E293B?style=for-the-badge" alt="Advanced System Design" />
+  <img src="https://img.shields.io/badge/Kubernetes-Internals-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Internals" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AI%20Agents-MCP%20%2B%20RAG-10B981?style=for-the-badge" alt="AI agents MCP RAG" />
+</p>
+
+---
+
+## Education and Certifications
+
+| Type | Details |
+|---|---|
+| B.Tech, Computer Engineering | Savitribai Phule Pune University - CGPA 9.21/10 - 2023 |
+| Diploma, Information Technology | MSBTE - 91.81% - 2020 |
+| Microsoft Technology Associate | Database Administration |
+| In Progress | AWS Certified Solutions Architect - Associate SAA-C03 |
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="mailto:harrybhosale17@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/omkar-bhosale-sde"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/omey-bhosale"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,45:06B6D4,75:2563EB,100:07080D&height=120&section=footer" alt="Footer" />
 </p>
